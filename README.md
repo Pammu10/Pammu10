@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pammu10
 - 👀 I’m interested in making code that is interesting
 - 🌱 I’m currently learning dsa and javascript
-- 💞️ I’m looking to collaborate on literally anything is fine as long as I learn
+- 💞️ I’m looking to collaborate on literally anything as long as I learn
 - 📫 U can reach me on @gambutla on instagram
 
 <!---
