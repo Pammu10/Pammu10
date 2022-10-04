@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pammu10
-- 👀 I’m interested in making code that is interesting
-- 🌱 I’m currently learning dsa and javascript
+- 👋 Hi, I’m Pramodh
+- 👀 I’m interested in making code that is influential
+- 🌱 I’m currently learning dsa and webdev
 - 💞️ I’m looking to collaborate on literally anything as long as I learn
-- 📫 U can reach me on @gambutla on instagram
+- 📫 U can reach me at pramodh380@gmail.com
 
 <!---
 Pammu10/Pammu10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
