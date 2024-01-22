@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pramodh
-- 👀 I’m interested in making code that is influential
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning dsa and webdev
 - 💞️ I’m looking to collaborate on literally anything as long as I learn
 - 📫 U can reach me at pramodh380@gmail.com
