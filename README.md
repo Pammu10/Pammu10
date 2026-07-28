@@ -30,13 +30,6 @@ class Pramodh:
         print("Always down to collaborate — reach me at pramodh380@gmail.com")
 ```
 
-- 🎓 Pursuing my **M.Tech in Computer Science** at **NITK Surathkal** (CGPA: 9.31/10)
-- 🤖 Most recently worked as an **AI Engineer Intern @ Mahindra Group**, building ML pricing pipelines and an LLM-powered routing service
-- 🧠 I like building things at the intersection of **LLMs, RAG pipelines, and product-grade full-stack apps**
-- 🌱 Currently sharpening my **DSA** and **System Design** fundamentals
-- 💞️ Open to collaborating on anything AI/ML, web dev, or just plain interesting
-- 📫 Reach me at **pramodh380@gmail.com**
-
 ## Tech Stack
 
 <div align="center">
