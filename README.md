@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Pammu10&label=Profile%20Views&color=a970ff&style=for-the-badge" alt="Profile views"/>
-<a href="https://linkedin.com/in/pramodh-krishna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://in.linkedin.com/in/pramodh-krishna-828915230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pramodh380@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Pammu10?tab=followers"><img src="https://img.shields.io/github/followers/Pammu10?style=for-the-badge&color=a970ff&labelColor=1a1a2e" /></a>
 
@@ -52,6 +52,7 @@ class Pramodh:
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/LiveKit-FF3B5C?style=for-the-badge"/>
 
 **AI / ML**
 <br/>
@@ -81,15 +82,20 @@ class Pramodh:
 
 <div align="center">
 
-<a href="https://github.com/Pammu10/Vedha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pammu10&repo=Vedha&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Pammu10/Pavalon">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Pammu10&repo=Pavalon&theme=tokyonight&hide_border=true" />
 </a>
+<a href="https://github.com/Pammu10/Vedha">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Pammu10&repo=Vedha&theme=tokyonight&hide_border=true" />
+</a>
+<br/>
 <a href="https://github.com/Pammu10/Fake-IMage-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pammu10&repo=Fake-IMage-Detection&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Pammu10&repo=Fake-IMage-Detection&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
+- 🕵️ **[Pavalon](https://github.com/Pammu10/Pavalon)** — An online multiplayer adaptation of **Avalon**, the 5-player social deduction board game. Next.js + Socket.IO client, an Express/PostgreSQL backend with JWT & Google OAuth, and LiveKit-powered in-game voice chat. Live at [pavalononline.pramodhkrishna.dev](https://pavalononline.pramodhkrishna.dev/).
 - 🔎 **[Vedha](https://github.com/Pammu10/Vedha)** — A document Q&A platform for querying an entire library in plain English. FastAPI + Next.js, adaptive chunking, ChromaDB semantic search, and a provider-agnostic LLM layer (swappable Ollama ⇄ Claude), fully Dockerized.
 - 🖼️ **[Fake Image Detection](https://github.com/Pammu10/Fake-IMage-Detection)** — Fine-tuned a ViT-base-patch16-224 backbone with a custom MLP head on CIFAKE to classify AI-generated vs. real images, reaching **80.3% accuracy / 0.89 AUC** after a full hyperparameter search + stratified 3-fold CV.
 
@@ -114,12 +120,10 @@ class Pramodh:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pammu10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Pammu10&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pammu10&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pammu10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pammu10&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Pammu10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
 
 </div>
 
@@ -145,7 +149,7 @@ class Pramodh:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/pramodh-krishna"><img src="https://img.shields.io/badge/-Pramodh%20Krishna-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://in.linkedin.com/in/pramodh-krishna-828915230"><img src="https://img.shields.io/badge/-Pramodh%20Krishna-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pramodh380@gmail.com"><img src="https://img.shields.io/badge/-pramodh380@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <br/><br/>
